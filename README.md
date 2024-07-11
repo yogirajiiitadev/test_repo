@@ -1,3 +1,3 @@
 # test_repo
 This a testing repo for educational purpose.
-Author - Yogiraj Chaudhari
+Author - Yogiraj Prakash Chaudhari
